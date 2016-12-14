@@ -28,8 +28,8 @@ pytz==2014.4
 redis==2.10.1
 requests==2.2.1
 six==1.6.1
-ipython==3.1.0
-ipdb==0.8
+ipython==5.1.0
+ipdb==0.10.2
 https://github.com/coleifer/micawber/archive/master.zip#egg=micawber
 https://github.com/mgaitan/waliki/archive/master.zip#egg=waliki[all]
 #rst2pdf==0.93
